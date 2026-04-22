@@ -1,7 +1,11 @@
 # → для WhatsApp и Instagram
-DOMAIN-SUFFIX,instagram.com
-DOMAIN-SUFFIX,instagr.am
-DOMAIN-SUFFIX,cdninstagram.com
-DOMAIN-SUFFIX,whatsapp.com
-DOMAIN-SUFFIX,whatsapp.net
-DOMAIN-SUFFIX,static.whatsapp.net
+DOMAIN-SUFFIX,whatsapp.net,PROXY
+DOMAIN-SUFFIX,whatsapp.com,PROXY
+DOMAIN-SUFFIX,static.whatsapp.net,PROXY
+DOMAIN-SUFFIX,instagram.com,PROXY
+DOMAIN-SUFFIX,instagr.am,PROXY
+DOMAIN-SUFFIX,cdninstagram.com,PROXY
+DOMAIN-SUFFIX,fbcdn.net,PROXY
+DOMAIN-SUFFIX,facebook.com,PROXY
+DOMAIN-SUFFIX,facebook.net,PROXY
+IP-CIDR,57.144.0.0/16,PROXY
