@@ -7,16 +7,16 @@ DOMAIN-SUFFIX,ai.google.dev
 DOMAIN-SUFFIX,google.ai
 DOMAIN-SUFFIX,generativeai.google
 DOMAIN-SUFFIX,labs.google
-# Технические эндпоинты (без них не будет ответов)
 DOMAIN-SUFFIX,generativelanguage.googleapis.com
 DOMAIN-SUFFIX,alkali-pa.googleapis.com
 DOMAIN-SUFFIX,proactivebackend-pa.googleapis.com
 DOMAIN-SUFFIX,content-proactivebackend-pa.googleapis.com
 DOMAIN-SUFFIX,discoveryengine.clients6.google.com
 DOMAIN-SUFFIX,apis.google.com
-# Вспомогательные и старые (для редиректов)
 DOMAIN-SUFFIX,bard.google.com
 DOMAIN-SUFFIX,deepmind.com
 DOMAIN-SUFFIX,deepmind.google
 DOMAIN-SUFFIX,makersuite.google.com
 DOMAIN-SUFFIX,alkalimakersuite-pa.clients6.google.com
+DOMAIN-SUFFIX,gstatic.com
+DOMAIN-SUFFIX,googleusercontent.com
