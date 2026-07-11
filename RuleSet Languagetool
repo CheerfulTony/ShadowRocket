@@ -1,0 +1,6 @@
+# → для languagetool.org
+DOMAIN-SUFFIX,languagetool.org,PROXY
+DOMAIN-SUFFIX,languagetool.plus,PROXY
+DOMAIN-KEYWORD,languagetool,PROXY
+# Дополнительные CDN и статика
+DOMAIN-SUFFIX,languagetool.net,PROXY
